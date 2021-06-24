@@ -12,6 +12,6 @@ In this challenge, we will build a choose your own adventure game like Bandersna
 
 ### Final project
 
-![Screenshot_1624533770](https://user-images.githubusercontent.com/81528687/123255384-67575580-d50d-11eb-9b55-e285e16bb422.png) ![Screenshot_1624533780](https://user-images.githubusercontent.com/81528687/123255397-6a524600-d50d-11eb-93e8-14839be8a773.png)
+![Screenshot_1624533770](https://user-images.githubusercontent.com/81528687/123255984-109e4b80-d50e-11eb-86dc-983e1f0bd478.png) ![Screenshot_1624533776](https://user-images.githubusercontent.com/81528687/123255397-6a524600-d50d-11eb-93e8-14839be8a773.png)
 
 
